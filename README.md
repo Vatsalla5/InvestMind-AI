@@ -122,7 +122,7 @@ InvestMind/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/kashif-kairo/InvestMind_AI.git
+git clone https://github.com/Vatsalla-kairo/InvestMind_AI.git
 cd InvestMind_AI/backend
 ```
 
@@ -221,9 +221,9 @@ Sentiment Adjustment → ±0.5 bonus/penalty
 
 ## 👨‍💻 Developer
 
-**Kashif** — Built as a Final year Colleage project.
+**Vatsalla** — Built as a Final year Colleage project.
 
-- GitHub: [@kashif-kairo](https://github.com/kashif-kairo)
+- GitHub: [Vatsalla5](https://github.com/Vatsalla5/InvestMind-AI)
 
 ---
 
