@@ -122,7 +122,7 @@ InvestMind/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Vatsalla-kairo/InvestMind_AI.git
+git clone https://github.com/Vatsalla5/InvestMind-AI
 cd InvestMind_AI/backend
 ```
 
